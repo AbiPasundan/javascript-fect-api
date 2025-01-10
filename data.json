@@ -1,0 +1,24 @@
+[
+    {"login" : [
+        {
+            "Name": "Jhon Doe",
+            "Email": "jhondoe@example.com",
+            "Password": "Jhon Doe"
+        }
+    ]},
+    {"data" :[
+        {
+            "UserName": "Jhon",
+            "Addres": "Jhon",
+            "Job": "Jhon",
+            "Skill": {
+                "Programming": "Javascript",
+                "Cooking": [
+                    {
+                        "Drinking": "Cappouchino, V6, Vietnam Drip, Americano, Esspreso"
+                    }
+                ]
+            }
+        }
+    ]}
+]
